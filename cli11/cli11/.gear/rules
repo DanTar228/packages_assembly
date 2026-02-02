@@ -1,0 +1,2 @@
+copy: *.info
+tar.gz: CLI11 name=cli11-@version@ base=CLI11-@version@
